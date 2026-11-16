@@ -1,0 +1,13 @@
+interface:
+  display_name: 或泊生活｜品牌、市场与销售共识
+  short_description: 承接创始人品牌判断、用户定位、产品技术和数据口径，指导销售市场宣传交付
+  default_prompt: 请使用 $guide-harlowelife-commercial，依据最新品牌与产品证据完成这项销售、市场或宣传任务。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
