@@ -1,5 +1,5 @@
-team: my-team
-description: TeamAI shared resources
+team: harlowe
+description: Harlowe 团队 AI 共享资源
 repo: https://github.com/JasonHarlowe/harlowe-teamai.git
 provider: github
 sharing:
@@ -11,3 +11,9 @@ sharing:
     injectShellProfile: true
   gitExclude:
     enabled: true
+language: zh
+usageReport: false
+sessions:
+  publish:
+    attended: off
+    unattended: off
