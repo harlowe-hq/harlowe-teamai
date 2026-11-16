@@ -1,6 +1,6 @@
 team: harlowe
 description: Harlowe 团队 AI 共享资源
-repo: https://github.com/JasonHarlowe/harlowe-teamai.git
+repo: https://github.com/harlowe-hq/harlowe-teamai.git
 provider: github
 sharing:
   rules:

@@ -9,7 +9,7 @@
 在 AI 工具中安装 TeamAI Skill 后输入：
 
 ```text
-/teamai 帮我加入团队 TeamAI，仓库地址是 https://github.com/JasonHarlowe/harlowe-teamai
+/teamai 帮我加入团队 TeamAI，仓库地址是 https://github.com/harlowe-hq/harlowe-teamai
 ```
 
 也可以在工作项目目录运行：
@@ -17,7 +17,7 @@
 ```bash
 npm install -g teamai-cli@latest
 gh auth login
-teamai init https://github.com/JasonHarlowe/harlowe-teamai
+teamai init https://github.com/harlowe-hq/harlowe-teamai
 teamai pull
 teamai doctor
 ```
